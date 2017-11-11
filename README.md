@@ -1,4 +1,4 @@
-O projeto `Shortener web - Bemobi` consiste em reproduzir um encurtador de URL's (apenas sua API), simples e com poucas funções, porém com espaço suficiente para mostrar toda a gama de desenho de soluções, escolha de componentes, mapeamento ORM, uso de bibliotecas de terceiros, uso de GIT e criatividade.
+O projeto `Shortener web` consiste em reproduzir um encurtador de URL's (apenas sua API);
 ## Environments
 
 - JDK 8, Gradle
